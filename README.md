@@ -74,7 +74,7 @@
 ### Certifications:
 
 <p align="left">
-  <a href="https://www.coursera.org/account/accomplishments/verify/D2YV9DXM24K9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"><picture><img alt="Coursera Certificate" src="https://blog.loopcv.pro/content/images/2022/10/coursera-certificate-copy.jpg" width="58%"></picture></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/D2YV9DXM24K9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"><picture><img alt="Coursera Certificate" src="https://github.com/AbdulWahab938/AbdulWahab938/blob/main/course-1.png?raw=true" width="58%"></picture></a>
 </p>
   
 <br />
